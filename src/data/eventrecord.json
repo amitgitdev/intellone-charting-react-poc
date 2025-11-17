@@ -1,0 +1,32 @@
+[
+  {
+    "eventRecordName": "Incident",
+    "eventCount": 268,
+    "totalNumberOfEvents": 307
+  },
+  {
+    "eventRecordName": "Security",
+    "eventCount": 12,
+    "totalNumberOfEvents": 307
+  },
+  {
+    "eventRecordName": "Incident Reporting",
+    "eventCount": 6,
+    "totalNumberOfEvents": 307
+  },
+  {
+    "eventRecordName": "Quality",
+    "eventCount": 8,
+    "totalNumberOfEvents": 307
+  },
+  {
+    "eventRecordName": "Accident",
+    "eventCount": 12,
+    "totalNumberOfEvents": 307
+  },
+  {
+    "eventRecordName": "Compliance",
+    "eventCount": 1,
+    "totalNumberOfEvents": 307
+  }
+]
