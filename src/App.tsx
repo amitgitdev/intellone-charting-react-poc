@@ -190,7 +190,7 @@ export default function App() {
           </div>
 
           {/* Grid Demo Link */}
-          <div style={{ textAlign: 'center', marginTop: 32,display:'none' }}>
+          <div style={{ textAlign: 'center', marginTop: 32 }}>
             <button
               onClick={() => setView('grid')}
               style={{
