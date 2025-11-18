@@ -113,7 +113,7 @@ export function GridDemoPlaceholder() {
     <div style={{ padding: '24px', maxWidth: '1600px', margin: '0 auto' }}>
       <div style={{ marginBottom: '24px' }}>
         <h2 style={{ margin: '0 0 8px 0', fontSize: '24px', color: '#111' }}>
-          📋 Event List Grid
+          📋 Telerik Event List Grid
         </h2>
         <p style={{ margin: 0, color: '#666', fontSize: '14px' }}>
           Showing {result.total} events with filtering, paging, and Excel export
